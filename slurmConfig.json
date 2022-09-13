@@ -1,0 +1,29 @@
+{
+	"__default__" :
+	{
+		"account" : "rc_dmckay1_pi",
+		"time" : "30:00",
+		"threads" : "1",
+		"mem" : "8G"
+	},
+
+	"map" :
+	{
+		"time": "1:00:00",
+		"thereads": "8",
+		"mem": "8G"
+	},
+
+	"filter":
+	{
+		"mem": "8G",
+		"threads": "8"
+	},
+
+	"bin":
+	{
+		"mem": "8G",
+		"threads": "8"
+	}	
+}	
+
